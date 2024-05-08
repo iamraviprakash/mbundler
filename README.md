@@ -10,15 +10,6 @@ npm install mbundler --save-dev
 ```
 
 
-### Features Supported
-- [ ] Hot module replacement
-- [ ] Source maps
-- [ ] Tree shaking
-- [ ] Code splitting
-- [ ] Code minification/uglify  
-- [ ] Supports different module systems (CommonJS, AMD, UMD, etc.)
-
-
 ### License
 Licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
